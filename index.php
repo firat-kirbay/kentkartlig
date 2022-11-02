@@ -51,7 +51,7 @@
                 <div class="field__side field__side--back"></div>
             </div>
         </div>
-        <div class="loading js-loading">PLEASE WAIT...</div>
+        <div class="loading js-loading">Takımlar Isınıyor...</div>
     </div>
     </main>
 <!-- partial -->
