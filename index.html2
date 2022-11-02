@@ -8,8 +8,7 @@
 <style>
     @media only screen and (max-width: 1000px) {
         #xxx {
-            zoom: 1.5;
-            transform: scale(2);
+            zoom: 1.8;
             transform-origin: 25vw 0;
         }
     }

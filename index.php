@@ -2,14 +2,13 @@
 <html lang="en" >
 <head>
   <meta charset="UTF-8">
-  <title>CodePen - 3D Football Lineup</title>
+  <title>KentkartLig - Lineup</title>
   <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'><link rel="stylesheet" href="./style.css">
 <style>
     @media only screen and (max-width: 1000px) {
         #xxx {
-            zoom: 1.5;
-            transform: scale(2);
+            zoom: 1.8;
             transform-origin: 25vw 0;
         }
     }
@@ -20,9 +19,9 @@
 <main id="xxx">
     <div class="static">
         <h1 class="js-heading">KENTKART LİG</h1>
-        <p class="js-subheading">03.11.2022 Perşembe 23:00 - 24:00</p>
+        <p class="js-subheading">03.11.2022 Perşembe 23:00 - 00:00</p>
         <div class="js-switcher switcher">
-            <a href="#" class="js-switch disabled switch-btn">HOME</a><a href="#" class="js-switch switch-btn">AWAY</a>
+            <a href="#" class="js-switch disabled switch-btn">Ev Sahibi</a><a href="#" class="js-switch switch-btn">Deplasman</a>
         </div>
     </div>
     <div class="js-stage stage texture">
