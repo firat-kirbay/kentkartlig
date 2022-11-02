@@ -41,56 +41,30 @@
     players: {
       home: [
         {
-          name: 'Yusuf Okkabas',
-          asset: 'photos/okkabas.png',
-          origin: 'Fethiye',
+          name: 'Kağan Pehlivan',
+          asset: 'photos/pehlivan.png',
+          origin: 'Bodrum',
           height: '1.75m',
-          shirt: '1',
-          pos: 'Goalkeeper',
-          dob: '22',
-          goals: 0,
-          games: 0,
-          x: -110,
-          y: -190
-        },
-        {
-          name: 'Mehmet Kulalı',
-          asset: 'photos/kulali.png',
-          origin: 'Kula',
-          height: '1.78m',
-          shirt: '45',
-          pos: 'Defence',
-          dob: '32',
-          goals: 0,
-          games: 16,
-          x: 110,
-          y: -190
-        },
-        {
-          name: 'Sezai Çam',
-          asset: 'photos/cam.jpeg',
-          origin: 'Kahramanlar',
-          height: '1.70m',
           shirt: '3',
-          pos: 'Defender',
-          dob: '45',
-          goals: 0,
-          games: 0,
-          x: 150,
-          y: 50
-        },
-        {
-          name: 'Fırat Kırbay',
-          asset: 'photos/kirbay.png',
-          origin: 'Konak',
-          height: '1.80m',
-          shirt: '35',
-          pos: 'Midfield',
-          dob: '32',
+          pos: 'Defender (Butcher)',
+          dob: '27',
           goals: 0,
           games: 0,
           x: 0,
           y: 100
+        },
+        {
+          name: 'Buse Bölük',
+          asset: 'photos/boluk.png',
+          origin: 'Manisa',
+          height: '1.70m',
+          shirt: '3',
+          pos: 'Defender',
+          dob: '20',
+          goals: 0,
+          games: 0,
+          x: 150,
+          y: 50
         },
         {
           name: 'Olgu Ceneli',
@@ -104,6 +78,32 @@
           games: 0,
           x: -150,
           y: 50
+        },
+        {
+          name: 'Baran Ateş',
+          asset: 'photos/ates.png',
+          origin: 'İzmir',
+          height: '1.82',
+          shirt: '8',
+          pos: 'Defender',
+          dob: '17',
+          goals: 0,
+          games: 0,
+          x: -150,
+          y: 50
+        },
+        {
+          name: 'Kaan Kumkale',
+          asset: 'photos/kumkale.png',
+          origin: 'İstanbul',
+          height: '1.75m',
+          shirt: '5',
+          pos: 'Defender',
+          dob: '37',
+          goals: 0,
+          games: 0,
+          x: -110,
+          y: -190
         },
         {
           name: 'Ramazan Kaya',
@@ -121,6 +121,19 @@
       ],
       away: [
         {
+          name: 'Yusuf Okkabas',
+          asset: 'photos/okkabas.png',
+          origin: 'Fethiye',
+          height: '1.75m',
+          shirt: '1',
+          pos: 'Goalkeeper',
+          dob: '22',
+          goals: 0,
+          games: 0,
+          x: -110,
+          y: -190
+        },
+        {
           name: 'Özgür Özdemir',
           asset: 'photos/ozdemir.png',
           origin: 'Buca',
@@ -134,26 +147,26 @@
           y: -190
         },
         {
-          name: 'Baran Ateş',
-          asset: 'photos/ates.png',
-          origin: 'İzmir',
-          height: '1.82',
-          shirt: '8',
-          pos: 'Defender',
-          dob: '17',
+          name: 'Mehmet Kulalı',
+          asset: 'photos/kulali.png',
+          origin: 'Kula',
+          height: '1.78m',
+          shirt: '45',
+          pos: 'Defence',
+          dob: '32',
           goals: 0,
-          games: 0,
-          x: -150,
-          y: 50
+          games: 16,
+          x: 110,
+          y: -190
         },
         {
-          name: 'Kağan Pehlivan',
-          asset: 'photos/pehlivan.png',
-          origin: 'Bodrum',
-          height: '1.75m',
-          shirt: '3',
-          pos: 'Defender (Butcher)',
-          dob: '27',
+          name: 'Fırat Kırbay',
+          asset: 'photos/kirbay.png',
+          origin: 'Konak',
+          height: '1.80m',
+          shirt: '35',
+          pos: 'Midfield',
+          dob: '32',
           goals: 0,
           games: 0,
           x: 0,
@@ -185,19 +198,7 @@
           x: -150,
           y: 50
         },
-        {
-          name: 'Kaan Kumkale',
-          asset: 'photos/kumkale.png',
-          origin: 'İstanbul',
-          height: '1.75m',
-          shirt: '5',
-          pos: 'Defender',
-          dob: '37',
-          goals: 0,
-          games: 0,
-          x: -110,
-          y: -190
-        }
+        
         /*,
         {
           name: 'Modric',
