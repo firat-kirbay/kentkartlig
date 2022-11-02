@@ -522,13 +522,13 @@ main {
 }
 .player .player__img {
   position: absolute;
-  top: 0;
-  left: 0;
-  width: 65px;
-  height: 65px;
+  top: -23px;
+  left: -13px;
+  width: 90px;
+  height: 90px;
   z-index: 4;
   overflow: hidden;
-  border-radius: 32.5px;
+  border-radius: 50%;
   background-color: #000;
   border: solid 1px #fff;
   -webkit-backface-visibility: hidden;
