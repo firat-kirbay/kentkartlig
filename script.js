@@ -94,7 +94,7 @@
         },
         {
           name: 'Hakan Uluskan',
-          asset: 'photos/no.png',
+          asset: 'photos/uluskan.png',
           origin: 'İzmir',
           height: '1.75m',
           shirt: '3',
@@ -107,7 +107,7 @@
         },        
         {
           name: 'Mehmet İşçimen',
-          asset: 'photos/no.png',
+          asset: 'photos/iscimen.png',
           origin: 'İzmir',
           height: '1.75m',
           shirt: '5',
@@ -173,8 +173,8 @@
           y: 100
         },
         {
-          name: 'Vefa Aksot',
-          asset: 'photos/no.png',
+          name: 'Vefa Aksoy',
+          asset: 'photos/aksoy.png',
           origin: 'Denizli',
           height: '1.55m',
           shirt: '2',
@@ -187,7 +187,7 @@
         },
         {
           name: 'Furkan Çolmabey',
-          asset: 'photos/no.png',
+          asset: 'photos/colmabey.png',
           origin: 'İzmir',
           height: '1.75',
           shirt: '8',
