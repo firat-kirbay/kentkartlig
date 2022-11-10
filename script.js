@@ -41,43 +41,17 @@
     players: {
       home: [
         {
-          name: 'Kağan Pehlivan',
-          asset: 'photos/pehlivan.png',
-          origin: 'Bodrum',
+          name: 'Yusuf Okkabas',
+          asset: 'photos/okkabas.png',
+          origin: 'Fethiye',
           height: '1.75m',
-          shirt: '3',
-          pos: 'Defender (Butcher)',
-          dob: '27',
+          shirt: '1',
+          pos: 'Goalkeeper',
+          dob: '22',
           goals: 0,
           games: 0,
-          x: 0,
-          y: 100
-        },
-        {
-          name: 'Buse Bölük',
-          asset: 'photos/boluk.png',
-          origin: 'Manisa',
-          height: '1.70m',
-          shirt: '3',
-          pos: 'Defender',
-          dob: '20',
-          goals: 0,
-          games: 0,
-          x: 150,
-          y: 50
-        },
-        {
-          name: 'Olgu Ceneli',
-          asset: 'photos/ceneli.png',
-          origin: 'Bornova',
-          height: '1.80m',
-          shirt: '8',
-          pos: 'Midfield',
-          dob: '32',
-          goals: 0,
-          games: 0,
-          x: -150,
-          y: 50
+          x: -110,
+          y: -190
         },
         {
           name: 'Baran Ateş',
@@ -93,18 +67,59 @@
           y: 50
         },
         {
-          name: 'Kaan Kumkale',
-          asset: 'photos/kumkale.png',
-          origin: 'İstanbul',
+          name: 'Mert Büyük',
+          asset: 'photos/no.png',
+          origin: 'İzmir',
+          height: '1.75m',
+          shirt: '3',
+          pos: 'Striker',
+          dob: '27',
+          goals: 0,
+          games: 0,
+          x: 0,
+          y: 100
+        },
+         {
+          name: 'Olgu Ceneli',
+          asset: 'photos/ceneli.png',
+          origin: 'Bornova',
+          height: '1.80m',
+          shirt: '8',
+          pos: 'Midfield',
+          dob: '32',
+          goals: 0,
+          games: 0,
+          x: -150,
+          y: 50
+        },
+        {
+          name: 'Hakan Uluskan',
+          asset: 'photos/no.png',
+          origin: 'İzmir',
+          height: '1.75m',
+          shirt: '3',
+          pos: 'Midfielder',
+          dob: '20',
+          goals: 0,
+          games: 0,
+          x: 150,
+          y: 50
+        },        
+        {
+          name: 'Mehmet İşçimen',
+          asset: 'photos/no.png',
+          origin: 'İzmir',
           height: '1.75m',
           shirt: '5',
-          pos: 'Defender',
+          pos: 'Midfielder',
           dob: '37',
           goals: 0,
           games: 0,
           x: -110,
           y: -190
-        },
+        }
+      ],
+      away: [
         {
           name: 'Ramazan Kaya',
           asset: 'photos/kaya.png',
@@ -118,21 +133,6 @@
           x: -150,
           y: 50
         }
-      ],
-      away: [
-        {
-          name: 'Yusuf Okkabas',
-          asset: 'photos/okkabas.png',
-          origin: 'Fethiye',
-          height: '1.75m',
-          shirt: '1',
-          pos: 'Goalkeeper',
-          dob: '22',
-          goals: 0,
-          games: 0,
-          x: -110,
-          y: -190
-        },
         {
           name: 'Özgür Özdemir',
           asset: 'photos/ozdemir.png',
@@ -173,12 +173,12 @@
           y: 100
         },
         {
-          name: 'Murat Memiş',
-          asset: 'photos/memis.png',
-          origin: 'Kırşehir',
-          height: '1.85m',
-          shirt: '10',
-          pos: 'Midfielder',
+          name: 'Vefa Aksot',
+          asset: 'photos/no.png',
+          origin: 'Denizli',
+          height: '1.55m',
+          shirt: '2',
+          pos: 'defender',
           dob: '37',
           goals: 0,
           games: 0,
@@ -186,9 +186,9 @@
           y: 50
         },
         {
-          name: 'Yasin Evişmek',
-          asset: 'photos/evismek.png',
-          origin: 'Urla',
+          name: 'Furkan Çolmabey',
+          asset: 'photos/no.png',
+          origin: 'İzmir',
           height: '1.75',
           shirt: '8',
           pos: 'Midfield',
