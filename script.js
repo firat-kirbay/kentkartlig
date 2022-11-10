@@ -132,7 +132,7 @@
           games: 0,
           x: -150,
           y: 50
-        }
+        },
         {
           name: 'Özgür Özdemir',
           asset: 'photos/ozdemir.png',
